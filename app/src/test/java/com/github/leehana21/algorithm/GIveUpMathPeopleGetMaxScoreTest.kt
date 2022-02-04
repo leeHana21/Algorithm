@@ -16,4 +16,5 @@ class GIveUpMathPeopleGetMaxScoreTest : TestCase() {
         //then
         assertEquals(intArrayOf(2,3,1),result)
     }
+    //test code
 }
