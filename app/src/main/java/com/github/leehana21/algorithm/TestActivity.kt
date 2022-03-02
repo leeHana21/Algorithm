@@ -8,9 +8,12 @@ class TestActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_test)
 
-        val testCode = FromDecimalToTernaryAndReverse()
+        /*val testCode = FromDecimalToTernaryAndReverse()
 
         testCode.solution(45)
         testCode.solution(125)
+        */
+
+
     }
 }
